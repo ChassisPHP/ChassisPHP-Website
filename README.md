@@ -1,7 +1,7 @@
 # ChassisPHP-Website
 This is the repository for the ChassisPHP documentation site.
 
-We welcome your help with our documentation. The instructioms are very new and are lacking in many areas. If you want to contribute, add an issue describing your change (or choose an existing issue, and let us know in the issue comments that you will be working on it) set up MkDocs on your system, edit existing entries or create your own, then submit a pull request. We want to keep the style consistent. So, you may be asked to edit your submission, or your submission may be edited before it is commited.
+We welcome your help with our documentation. The instructions are very new and are lacking in many areas. If you want to contribute, add an issue describing your change (or choose an existing issue, and let us know in the issue comments that you will be working on it) set up MkDocs on your system, edit existing entries or create your own, then submit a pull request. We want to keep the style consistent. So, you may be asked to edit your submission, or your submission may be edited before it is commited.
 
 ChassisPHP uses [MkDocs](https://www.mkdocs.org/) as a static site generator for our documentation.
 
