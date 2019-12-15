@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+# Welcome to ChassisPHP!
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+ChassisPHP, pronounced Cha-see P H P, is a PHP framework designed to support and simplify the development
+of brouchure-type websites. We are an opensource project supported and developed by volunteers. If you find a
+problem with ChassisPHP, or find functionality that is missing, please add it as an issue on the main project.
+If you are so inclined, submitt a pull request with the change or fix. We welcome YOUR help! The main project
+is here: [https://github.com/RogerCreasy/ChassisPHP](https://github.com/RogerCreasy/ChassisPHP)
 
-## Commands
+## Installing
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+We recommend that you install ChassisHPHP using [Composer](https://getcomposer.org/). Assuming you have Composer installed and set up on your development box:
 
-## Project layout
+ * create a directory for your project
+ * from the directory above your project directory, run<br>
+ `composer create-project -s dev rogercreasy/chassis-php [project directory name]`
+ * you can run the site using PHP's built in server by:
+     * change to the directory [project directory name]/public
+     * run the command<br>
+       `php -S localhost:8080`
+     * visit the site in you browser by typing `localhost:8080` in the address bar
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
