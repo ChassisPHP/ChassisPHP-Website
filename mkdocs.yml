@@ -5,3 +5,5 @@ google_analytics: ['UA-154798423-1', 'ChassisPHP.com']
 site_description: "The documenetaion site for ChassisPHP, a PHP franework designed to simplfy brouchure site creation. Making developer's lives easier"
 
 site_author: "The ChassisPHP community"
+
+site_url: https://chaassisphp.com
