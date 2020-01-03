@@ -4,7 +4,7 @@ ChassisPHP, pronounced Cha-see P H P, is a PHP framework designed to support and
 of brouchure-type websites. We are an opensource project supported and developed by volunteers. If you find a
 problem with ChassisPHP, or find functionality that is missing, please add it as an issue on the main project.
 If you are so inclined, submitt a pull request with the change or fix. We welcome YOUR help! The main project
-is here: [https://github.com/RogerCreasy/ChassisPHP](https://github.com/RogerCreasy/ChassisPHP)
+is here: [https://github.com/ChassisPHP/ChassisPHP](https://github.com/ChassisPHP/ChassisPHP)
 
 ## Installing
 
