@@ -11,13 +11,15 @@ is here: [https://github.com/ChassisPHP/ChassisPHP](https://github.com/ChassisPH
 We recommend that you install ChassisHPHP using [Composer](https://getcomposer.org/). Assuming you have Composer installed and set up on your development box:
 
  * create a directory for your project
- * from the directory above your project directory, run<br>
+ * from the directory above your project directory, run:
 ```
     composer create-project -s dev chassisphp/chassisphp [project directory name]
 ```
  * you can run the site using PHP's built in server by:
      * change to the directory [project directory name]/public
-     * run the command<br>
-       `php -S localhost:8080`
-     * visit the site in you browser by typing `localhost:8080` in the address bar
+     * run the command:
+```
+       php -S localhost:8080
+```
+ * visit the site in you browser by typing `localhost:8080` in the address bar
 
