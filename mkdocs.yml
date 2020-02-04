@@ -6,4 +6,12 @@ site_description: "The documenetaion site for ChassisPHP, a PHP franework design
 
 site_author: "The ChassisPHP community"
 
-site_url: https://chaassisphp.com
+site_url: https://chassisphp.com
+
+theme:
+    name: mkdocs
+    highlightjs: true
+    hljs_languages:
+        - php
+        - bash
+    hljs_style: 'darkula'

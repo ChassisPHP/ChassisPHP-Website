@@ -12,7 +12,9 @@ We recommend that you install ChassisHPHP using [Composer](https://getcomposer.o
 
  * create a directory for your project
  * from the directory above your project directory, run<br>
- `composer create-project -s dev chassisphp/chassisphp [project directory name]`
+```
+    composer create-project -s dev chassisphp/chassisphp [project directory name]
+```
  * you can run the site using PHP's built in server by:
      * change to the directory [project directory name]/public
      * run the command<br>
