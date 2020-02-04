@@ -14,4 +14,7 @@ theme:
     hljs_languages:
         - php
         - bash
-    hljs_style: 'darkula'
+        - sql
+
+extra_css:
+        - darcula.css
